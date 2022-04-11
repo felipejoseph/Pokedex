@@ -12,7 +12,7 @@ Url Front : https://github.com/felipejoseph/pokedex-fed-react
  
 Here are the technologies used in this project.
  
-* Java for back end   11 
+* Java for back end , Version:  11 
 * React for front end
  
 ## Services Used
@@ -21,7 +21,7 @@ Here are the technologies used in this project.
 
 ## Getting started
  
-* To install gems:
+* To install:
 >    mvn clean package
  
 
